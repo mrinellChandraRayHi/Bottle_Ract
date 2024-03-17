@@ -1,0 +1,32 @@
+.bottle{
+    border:2px solid blue;
+    border-radius: 10px;
+    text-align: center;
+    padding:10px 0px;
+}
+
+.bottle .imgSize{
+    height:20rem;
+    width:auto;
+    border-radius: 10px;
+}
+
+.btn{
+    padding:7px 20px;
+    border-radius: 10px;
+    border:none;
+    background-color: rgb(88, 88, 198);
+    color:#fff;
+    margin: 5px;
+}
+
+.bgChange{
+    background-color: rgb(92, 29, 181);
+    color:#fff;
+}
+
+.imgSizes{
+    height: 10rem;
+    border-radius: 10px;
+    display: inline-block;
+}
